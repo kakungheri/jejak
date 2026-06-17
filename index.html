@@ -12,9 +12,12 @@
 
 <body>
 
-    <div class="overlay"></div>
+<div class="overlay"></div>
 
-    <main class="hero">
+<div id="app">
+
+    <!-- LANDING -->
+    <section class="page active" id="landing">
 
         <div class="content">
 
@@ -23,7 +26,7 @@
             <h1>1957 – 2023</h1>
 
             <p class="quote">
-                Tepat seribu putaran matahari<br>
+                Tepat seribu putaran matahari
                 sejak engkau pulang.
             </p>
 
@@ -41,9 +44,78 @@
 
         </div>
 
-    </main>
+    </section>
 
-    <script src="js/script.js"></script>
+
+    <!-- UCAPAN -->
+    <section class="page" id="ucapan">
+
+        <div class="page-content">
+
+            <p class="section-label">
+                Ucapan Keluarga
+            </p>
+
+            <h2>
+                Assalamu'alaikum
+                Warahmatullahi
+                Wabarakatuh
+            </h2>
+
+            <p class="section-text">
+
+                Dengan penuh rasa syukur
+                dan kerendahan hati,
+                kami mengundang Bapak/Ibu
+                untuk bersama-sama
+                mendoakan almarhum.
+
+            </p>
+
+            <button class="next-btn"
+                    data-next="puisi">
+
+                Lanjut
+
+            </button>
+
+        </div>
+
+    </section>
+
+
+    <!-- PUISI -->
+    <section class="page" id="puisi">
+
+        <div class="page-content">
+
+            <p class="section-label">
+
+                Jejak
+
+            </p>
+
+            <blockquote>
+
+                beberapa ingatan,<br>
+                tetap tinggal.
+
+            </blockquote>
+
+            <button class="next-btn"
+                    data-next="yasin">
+
+                Lanjut
+
+            </button>
+
+        </div>
+
+    </section>
+
+</div>
+
+<script src="js/script.js"></script>
 
 </body>
 </html>
