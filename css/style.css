@@ -29,9 +29,7 @@ body {
 
 .page {
 
-    position: absolute;
-
-    inset: 0;
+    min-height: 100dvh;
 
     display: flex;
 
