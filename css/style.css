@@ -182,9 +182,6 @@ h1 {
     font-family:
         'Cormorant Garamond',
         serif;
-
-    font-size: 4rem;
-
     color: var(--text);
 }
 
@@ -310,6 +307,72 @@ button:hover {
     }
 }
 
+/* =========================
+   COVER PAGE
+========================= */
+
+#cover {
+
+    min-height: 100dvh;
+
+    position: relative;
+
+    overflow: hidden;
+}
+
+.cover-content {
+
+    position: relative;
+
+    z-index: 2;
+
+    width: min(90vw, 700px);
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    justify-content: center;
+
+    gap: 12px;
+}
+
+.bismillah {
+
+    font-size: clamp(
+        1.4rem,
+        4vw,
+        2.4rem
+    );
+}
+
+.subtitle,
+.role,
+.bin,
+.dates {
+
+    line-height: 1.4;
+}
+
+.cover-name {
+
+    font-family:
+        'Cormorant Garamond',
+        serif;
+
+    font-size: clamp(
+        3rem,
+        10vw,
+        6rem
+    );
+
+    line-height: .9;
+
+    margin: 10px 0;
+}
+
 @media(max-width:600px){
 
     h1 {
@@ -332,7 +395,7 @@ button:hover {
 
     .corner{
 
-        width:70px;
+        width:60px;
     }
 
     .tl,
@@ -355,9 +418,17 @@ button:hover {
         right:12px;
     }
 
-    .page{
+    .cover-content{
 
-        padding-top: 24px;
-        padding-bottom: 24px;
+        gap:8px;
     }
+
+    .subtitle,
+    .role,
+    .bin,
+    .dates{
+
+        font-size:.95rem;
+    }
+
 }
