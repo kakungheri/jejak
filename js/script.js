@@ -1,7 +1,24 @@
-const pages =
-    document.querySelectorAll('.page');
+const pages = document.querySelectorAll('.page');
 
 let autoMode = false;
+
+
+/* =========================
+   AUTO MODE
+========================= */
+
+function stopAutoMode() {
+
+    autoMode = false;
+
+    console.log('Auto mode dihentikan');
+
+}
+
+
+/* =========================
+   PAGE NAVIGATION
+========================= */
 
 function showPage(id) {
 
@@ -11,36 +28,75 @@ function showPage(id) {
 
     });
 
-    document
-        .getElementById(id)
-        .classList
-        .add('active');
+    const targetPage =
+        document.getElementById(id);
+
+    if (targetPage) {
+
+        targetPage.classList.add('active');
+
+    }
+
 }
 
 
-/* LANDING */
+/* =========================
+   COVER
+========================= */
 
-document
-    .getElementById('interactiveBtn')
-    .addEventListener('click', () => {
+const enterBtn =
+    document.getElementById('enterBtn');
 
-        autoMode = false;
+if (enterBtn) {
 
-        showPage('ucapan');
+    enterBtn.addEventListener('click', () => {
+
+        showPage('landing');
+
     });
 
+}
 
-document
-    .getElementById('autoBtn')
-    .addEventListener('click', () => {
+
+/* =========================
+   LANDING
+========================= */
+
+const interactiveBtn =
+    document.getElementById('interactiveBtn');
+
+if (interactiveBtn) {
+
+    interactiveBtn.addEventListener('click', () => {
+
+        stopAutoMode();
+
+        showPage('ucapan');
+
+    });
+
+}
+
+
+const autoBtn =
+    document.getElementById('autoBtn');
+
+if (autoBtn) {
+
+    autoBtn.addEventListener('click', () => {
 
         autoMode = true;
 
         startAutoFlow();
+
     });
 
+}
 
-/* NEXT BUTTON */
+
+/* =========================
+   NEXT BUTTONS
+========================= */
 
 document
     .querySelectorAll('.next-btn')
@@ -48,7 +104,7 @@ document
 
         button.addEventListener('click', () => {
 
-            autoMode = false;
+            stopAutoMode();
 
             showPage(
                 button.dataset.next
@@ -58,10 +114,16 @@ document
 
     });
 
+
+/* =========================
+   AUTO FLOW
+========================= */
+
 function startAutoFlow() {
 
     showPage('ucapan');
 
+    /* Ucapan → Puisi */
     setTimeout(() => {
 
         if (!autoMode) return;
@@ -71,6 +133,7 @@ function startAutoFlow() {
     }, 45000);
 
 
+    /* Puisi → Yasin */
     setTimeout(() => {
 
         if (!autoMode) return;
@@ -79,18 +142,35 @@ function startAutoFlow() {
 
     }, 75000);
 
+
+    /*
+    Nanti tambahkan:
+
+    showPage('galeri');
+
+    showPage('ruang-doa');
+
+    */
+
 }
+
+
+/* =========================
+   USER INTERACTION
+========================= */
 
 document.addEventListener(
 
-    'click',
+    'pointerdown',
 
     () => {
 
-        autoMode = false;
+        if (autoMode) {
 
-    },
+            stopAutoMode();
 
-    { once: true }
+        }
+
+    }
 
 );
