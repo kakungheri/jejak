@@ -373,6 +373,48 @@ button:hover {
     margin: 10px 0;
 }
 
+.ucapan-text{
+
+    max-width: 700px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 1.2rem;
+
+    line-height: 1.8;
+}
+
+.ayat{
+
+    font-family:
+        'Cormorant Garamond',
+        serif;
+
+    font-size: 1.4rem;
+
+    font-style: italic;
+
+    line-height: 1.8;
+
+    margin: 1rem 0;
+}
+
+.ayat-source{
+
+    opacity: .7;
+
+    font-size: .95rem;
+}
+
+.signature{
+
+    margin-top: 1rem;
+
+    font-weight: 600;
+}
+
 @media(max-width:600px){
 
     h1 {
