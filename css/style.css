@@ -22,13 +22,17 @@ body {
 
     background-position: center;
 
-    overflow: hidden;
+    overflow-x: hidden;
 
     position: relative;
 }
 
 .page {
 
+    position: absolute;
+
+    inset: 0;
+    
     min-height: 100dvh;
 
     display: flex;
@@ -351,4 +355,9 @@ button:hover {
         right:12px;
     }
 
+    .page{
+
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
 }
