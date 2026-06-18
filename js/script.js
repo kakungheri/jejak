@@ -20,25 +20,40 @@ function stopAutoMode() {
    PAGE NAVIGATION
 ========================= */
 
-function showPage(id) {
+function showPage(id){
 
-    pages.forEach(page => {
+pages.forEach(page=>{
 
-        page.classList.remove('active');
+page.classList.remove(
+'active'
+);
 
-    });
+});
 
-    const targetPage =
-        document.getElementById(id);
+document
+.getElementById(id)
+.classList.add(
+'active'
+);
 
-    if (targetPage) {
 
-        targetPage.classList.add('active');
+/* STOP YASIN */
 
-    }
+const audio=
+
+document.getElementById(
+'yasinAudio'
+);
+
+if(audio){
+
+audio.pause();
+
+audio.currentTime=0;
 
 }
 
+}
 
 /* =========================
    COVER
