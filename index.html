@@ -304,23 +304,44 @@
             Yasin & Doa
         </p>
 
-        <h2>
-            Surah Yasin
-        </h2>
+        <h2>Surah Yasin</h2>
 
-        <p>
-            Konten Yasin akan ditambahkan.
-        </p>
+        <div class="audio-controls">
+
+            <button id="playYasin">
+                ▶ Putar
+            </button>
+
+            <button id="pauseYasin">
+                ⏸ Pause
+            </button>
+
+        </div>
+
+        <div class="progress">
+
+            <div id="progressFill"></div>
+
+        </div>
+
+        <div id="yasinContainer">
+
+        </div>
 
         <button
             class="next-btn"
             data-next="galeri">
 
-            Lanjut
+            Lanjut ke Galeri
 
         </button>
 
     </div>
+
+    <audio
+        id="yasinAudio"
+        src="assets/yasin.mp3">
+    </audio>
 
 </section>
 
