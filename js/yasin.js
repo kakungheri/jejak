@@ -8,6 +8,11 @@ document.getElementById(
 'yasinAudio'
 );
 
+const bgMusic =
+document.getElementById(
+'bgMusic'
+);
+
 const playBtn =
 document.getElementById(
 'playYasin'
@@ -102,7 +107,7 @@ ayah.dataset.time
 audio.currentTime=
 startTime;
 
-audio.play();
+audio.();
 
 });
 
@@ -112,6 +117,8 @@ audio.play();
 
 playBtn.onclick=()=>{
 
+fadeOutMusic();
+
 audio.play();
 
 };
@@ -119,6 +126,8 @@ audio.play();
 pauseBtn.onclick=()=>{
 
 audio.pause();
+
+fadeInMusic();
 
 };
 
@@ -137,6 +146,12 @@ highlightAyah(
 current
 );
 
+'ended',
+
+()=>{
+
+fadeInMusic();
+    
 });
 
 function updateProgress(){
@@ -253,5 +268,70 @@ block:'center'
 });
 
 }
+
+}
+
+function fadeOutMusic(){
+
+let volume=
+bgMusic.volume;
+
+const fade=
+
+setInterval(()=>{
+
+if(volume<=0){
+
+clearInterval(
+fade
+);
+
+bgMusic.pause();
+
+}
+
+volume-=0.05;
+
+bgMusic.volume=
+Math.max(
+volume,
+0
+);
+
+},100);
+
+}
+
+
+
+function fadeInMusic(){
+
+bgMusic.play();
+
+let volume=0;
+
+bgMusic.volume=0;
+
+const fade=
+
+setInterval(()=>{
+
+if(volume>=0.3){
+
+clearInterval(
+fade
+);
+
+}
+
+volume+=0.05;
+
+bgMusic.volume=
+Math.min(
+volume,
+0.3
+);
+
+},100);
 
 }
