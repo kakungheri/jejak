@@ -414,6 +414,80 @@ button:hover {
 
     font-weight: 600;
 }
+/* =========================
+   RENUNGAN
+========================= */
+.renungan-slider {
+
+    position: relative;
+
+    max-width: 700px;
+
+    margin: auto;
+
+    min-height: 350px;
+}
+
+.renungan-card {
+
+    display: none;
+
+    animation: fadeUp .6s ease;
+}
+
+.renungan-card.active {
+
+    display: block;
+}
+
+.renungan-card h3 {
+
+    margin-bottom: 1rem;
+
+    font-family:
+        'Cormorant Garamond',
+        serif;
+
+    font-size: 2rem;
+}
+
+.renungan-card blockquote {
+
+    font-size: 1.2rem;
+
+    line-height: 1.9;
+
+    white-space: pre-line;
+}
+
+.author {
+
+    margin-top: 1.5rem;
+
+    opacity: .7;
+}
+
+.renungan-nav {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 1rem;
+
+    margin-top: 2rem;
+}
+
+.renungan-nav button {
+
+    width: 50px;
+
+    height: 50px;
+
+    border-radius: 50%;
+}
 
 @media(max-width:600px){
 
