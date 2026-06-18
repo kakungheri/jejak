@@ -673,3 +673,23 @@ button:hover {
     }
 
 }
+
+.ayah{
+
+cursor:pointer;
+}
+
+.ayah:hover{
+
+background:
+rgba(
+109,
+139,
+116,
+0.08
+);
+
+transform:
+translateY(-2px);
+
+}
