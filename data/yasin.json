@@ -1,0 +1,583 @@
+[
+  {
+    "no": 1,
+    "arab": "يس",
+    "latin": "Yā Sīn",
+    "indo": "Ya Sin.",
+    "time": 9.050
+  },
+  {
+    "no": 2,
+    "arab": "وَالْقُرْآنِ الْحَكِيمِ",
+    "latin": "Wal-qur'ānil-ḥakīm",
+    "indo": "Demi Al-Qur’an yang penuh hikmah,",
+    "time": 13.200
+  },
+  {
+    "no": 3,
+    "arab": "إِنَّكَ لَمِنَ الْمُرْسَلِينَ",
+    "latin": "Innaka laminal-mursalīn",
+    "indo": "sesungguhnya engkau (Nabi Muhammad) benar-benar salah seorang dari rasul-rasul",
+    "time": 18.150
+  },
+  {
+    "no": 4,
+    "arab": "عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+    "latin": "‘alâ shirâthim mustaqîm",
+    "indo": "(yang berada) di atas jalan yang lurus,",
+    "time": 24.080
+  },
+  {
+    "no": 5,
+    "arab": "تَنْزِيلَ الْعَزِيزِ الرَّحِيمِ",
+    "latin": "tanzîlal-‘azîzir-raḫîm",
+    "indo": "(sebagai wahyu) yang diturunkan oleh (Allah) Yang Mahaperkasa lagi Maha Penyayang,",
+    "time": 30.150
+  },
+  {
+    "no": 6,
+    "arab": "لِتُنْذِرَ قَوْمًا مَا أُنْذِرَ آبَاؤُهُمْ فَهُمْ غَافِلُونَ",
+    "latin": "litundzira qaumam mâ undzira âbâ'uhum fa hum ghâfilûn",
+    "indo": "agar engkau (Nabi Muhammad) memberi peringatan kepada suatu kaum yang nenek moyang mereka belum pernah diberi peringatan, sehingga mereka lalai.",
+    "time": 37.000
+  },
+  {
+    "no": 7,
+    "arab": "لَقَدْ حَقَّ الْقَوْلُ عَلَىٰ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ",
+    "latin": "laqad ḫaqqal-qaulu ‘alâ aktsarihim fa hum lâ yu'minûn",
+    "indo": "Sungguh, benar-benar berlaku perkataan (ketetapan takdir) terhadap kebanyakan mereka, maka mereka tidak akan beriman.",
+    "time": 50.220
+  },
+  {
+    "no": 8,
+    "arab": "إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا فَهِيَ إِلَى الْأَذْقَانِ فَهُمْ مُقْمَحُونَ",
+    "latin": "innâ ja‘alnâ fî a‘nâqihim aghlâlan fa hiya ilal-adzqâni fa hum muqmaḫûn",
+    "indo": "Sesungguhnya Kami telah memasang belenggu di leher mereka, lalu (tangan mereka yang terbelenggu diangkat) ke dagu, karena itu mereka tertengadah.",
+    "time": 59.280
+  },
+  {
+    "no": 9,
+    "arab": "وَجَعَلْنَا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ",
+    "latin": "wa ja‘alnâ mim baini aidîhim saddaw wa min khalfihim saddan fa aghsyainâhum fa hum lâ yubshirûn",
+    "indo": "Kami memasang penghalang di hadapan mereka dan di belakang mereka, sehingga Kami menutupi (pandangan) mereka. Mereka pun tidak dapat melihat.",
+    "time": 75.050
+  },
+  {
+    "no": 10,
+    "arab": "وَسَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْ\u00adذِرْهُمْ لَا يُؤْمِنُونَ",
+    "latin": "wa sawâ'un ‘alaihim a andzartahum am lam tundzirhum lâ yu'minûn",
+    "indo": "Sama saja bagi mereka, apakah engkau (Nabi Muhammad) memberi peringatan kepada mereka atau tidak engkau beri peringatan, mereka (tetap) tidak akan beriman.",
+    "time": 90.190
+  },
+  {
+    "no": 11,
+    "arab": "إِنَّمَا تُنْذِرُ مَنِ اتَّبَعَ الذِّكْرَ وَخَشِيَ الرَّحْمَٰنَ بِالْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+    "latin": "innamâ tundziru manittaba‘adz-dzikra wa khasyiyar-raḫmâna bil-ghaib, fa basysyirhu bimaghfiratiw wa ajring karîm",
+    "indo": "Sesungguhnya engkau hanya (bisa) memberi peringatan kepada orang-orang yang mau mengikuti peringatan (Al-Qur'an) dan yang takut kepada Tuhan Yang Maha Pengasih tanpa melihat-Nya. Berilah mereka kabar gembira dengan ampunan dan pahala yang mulia.",
+    "time": 103.190
+  },
+  {
+    "no": 12,
+    "arab": "إِنَّا نَحْنُ نُحْيِي الْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا وَآثَارَهُمْ ۚ وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ",
+    "latin": "innâ naḫnu nuḫyil-mautâ wa naktubu mâ qaddamû wa âtsârahum, wa kulla syai'in aḫshainâhu fî imâmim mubîn",
+    "indo": "Sesungguhnya Kamilah yang menghidupkan orang-orang yang mati dan Kami (pulalah) yang mencatat apa yang telah mereka kerjakan dan bekas-bekas yang mereka (tinggalkan). Segala sesuatu Kami kumpulkan dalam kitab induk yang nyata (Lauh Mahfuz).",
+    "time": 123.050
+  },
+  {
+    "no": 13,
+    "arab": "وَاضْرِبْ لَهُمْ mَثَلًا أَصْحَابَ الْقَرْيَةِ إِذْ جَاءَهَا الْمُرْسَلُونَ",
+    "latin": "waḍrib lahum matsalan ash-ḫâbal-qaryah, idz jâ'ahal-mursalûn",
+    "indo": "Buatlah suatu perumpamaan bagi mereka, yaitu penduduk suatu negeri ketika utusan-utusan datang kepadanya;",
+    "time": 140.150
+  },
+  {
+    "no": 14,
+    "arab": "إِذْ أَرْسَلْنَا إِلَيْهِمُ اثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ فَقَالُوا إِنَّا إِلَيْكُمْ مُرْسَلُونَ",
+    "latin": "idz arsalnâ ilaihimutsnaini fa kadzzabûhumâ fa ‘azzaznâ bitsâlitsin fa qâlû innâ ilaikum mursalûn",
+    "indo": "(yaitu) ketika Kami mengutus kepada mereka dua orang utusan, lalu mereka mendustakan keduanya; kemudian Kami kuatkan dengan (utusan) yang ketiga. Maka, ketiga (utusan itu) berkata, \"Sesungguhnya kami adalah orang-orang yang diutus kepadamu.\"",
+    "time": 152.050
+  },
+  {
+    "no": 15,
+    "arab": "قَالُوا مَا أَنْتُمْ إِلَّا بَشَرٌ مِثْلُنَا وَمَا أَنْزَلَ الرَّحْمَٰنُ مِنْ شَيْءٍ إِنْ أَنْتُمْ إِلَّا تَكْذِبُونَ",
+    "latin": "qâlû mâ antum illâ basyarum mitslunâ wa mâ anzalar-raḫmânu min syai'in in antum illâ takdzibûn",
+    "indo": "Mereka (penduduk negeri) geopolitical menjawab, \"Kamu tidak lain hanyalah manusia seperti kami dan (Allah) Yang Maha Pengasih tidak menurunkan sesuatu apa pun; kamu hanyalah pendusta belaka.\"",
+    "time": 174.040
+  },
+  {
+    "no": 16,
+    "arab": "قَالُوا رَبُّنَا يَعْلَمُ إِنَّا إِلَيْكُمْ لَمُرْسَلُونَ",
+    "latin": "qâlû rabbunâ ya‘lamu innâ ilaikum lamursalûn",
+    "indo": "Mereka (para utusan) berkata, \"Tuhan kami mengetahui bahwa sesungguhnya kami benar-benar para utusan(-Nya) kepadamu.",
+    "time": 194.050
+  },
+  {
+    "no": 17,
+    "arab": "وَمَا عَلَيْنَا إِلَّا الْبَلَاغُ الْمُبِينُ",
+    "latin": "wa mâ ‘alainâ illal-balâghul-mubîn",
+    "indo": "Kewajiban kami tidak lain hanyalah menyampaikan (perintah Allah) dengan jelas.\"",
+    "time": 204.100
+  },
+  {
+    "no": 18,
+    "arab": "قَالُوا إِنَّا تَطَيَّرْنَا بِكُمْ ۖ لَئِنْ لَم_ تَنْتَهُوا لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُمْ مِنَّا عَذَابٌ أَلِيمٌ",
+    "latin": "qâlû innâ thathayyarnâ bikum, la'il lam tantahû lanarjumannakum wa layamassannakum minnâ ‘adzâbun alîm",
+    "indo": "Mereka (penduduk negeri) menjawab, \"Sesungguhnya kami bernasib malang karena kamu. Sungguh, jika kamu tidak berhenti (menyeru kami), niscaya kami akan merajammu dan kamu pasti akan merasakan siksaan yang pedih dari kami.\"",
+    "time": 212.080
+  },
+  {
+    "no": 19,
+    "arab": "قَالُوا طَائِرُكُمْ مَعَكُمْ ۚ أَئِنْ ذُكِّرْتُمْ ۚ بَلْ أَنْتُمْ قَوْمٌ مُسْرِفُونَ",
+    "latin": "qâlû thâ'irukum ma‘akum, a'in dzukkirtum, bal antum qaumum musrifûn",
+    "indo": "Mereka (para utusan) berkata, \"Kemalangan kamu itu (bawaan) dari kamu sendiri. Apakah karena kamu diberi peringatan (lalu kamu bernasib malang)? Sebenarnya kamu adalah kaum yang melampaui batas.\"",
+    "time": 232.180
+  },
+  {
+    "no": 20,
+    "arab": "وَجَاءَ مِنْ أَقْصَى الْمَدِينَةِ رَجُلٌ يَسْعَىٰ قَالَ يَا قَوْمِ اتَّبِعُوا الْمُرْسَلِينَ",
+    "latin": "wa jâ'a min aqshal-madînati rajuluy yas‘â qâla yâ qaumittabi‘ul-mursalîn",
+    "indo": "Datanglah dengan cepat seorang laki-laki dari ujung kota. Dia berkata, \"Wahai kaumku, ikutilah para utusan itu!",
+    "time": 248.290
+  },
+  {
+    "no": 21,
+    "arab": "اتَّبِعُوا مَنْ لَا يَسْأَلُكُمْ أَجْرًا وَهُمْ مُهْتَدُونَ",
+    "latin": "ittabi‘û mal lâ yas'alukum ajraw wa hum muhtadûn",
+    "indo": "Ikutilah orang yang tidak meminta imbalan (sedikit pun) kepadamu; dan mereka adalah orang-orang yang mendapat petunjuk.",
+    "time": 261.250
+  },
+  {
+    "no": 22,
+    "arab": "وَمَا لِيَ لَا أَعْبُدُ الَّذِي فَطَرَنِي وَإِلَيْهِ تُرْجَعُونَ",
+    "latin": "wa mâ liya lâ a‘budul-ladzî fatharanî wa ilaihi turja‘ûn",
+    "indo": "Apa alasanku untuk tidak menyembah (Tuhan) yang telah menciptakanku dan hanya kepada-Nyalah kamu akan dikembalikan?",
+    "time": 272.000
+  },
+  {
+    "no": 23,
+    "arab": "أَأَتَّخِذُ مِنْ دُونِهِ آلِهَةً إِنْ يُرِدْنِ الرَّحْمَٰنُ بِضُرٍّ لَا تُغْنِ عَنِّي شَفَاعَتُهُمْ شَيْئًا وَلَا يُنْقِذُونِ",
+    "latin": "a'attakhidzu min dûnihî âlihatan iy yuridnir-raḫmânu bidhurril lâ tughni ‘annî syafâ‘atuhum syai'aw wa lâ yunqidzûn",
+    "indo": "Mengapa aku (harus) mengambil tuhan-tuhan selain-Nya? Jika (Tuhan) Yang Maha Pengasih menghendaki bencana atasku, pasti syafaat mereka tidak berguna sama sekali bagiku dan mereka (juga) tidak dapat menyelamatkanku.",
+    "time": 282.140
+  },
+  {
+    "no": 24,
+    "arab": "إِنِّي إِذًا لَفِي ضَلَالٍ مُبِينٍ",
+    "latin": "innî idzal lafî dhalâlim mubîn",
+    "indo": "Sesungguhnya aku (jika berbuat) begitu, pasti berada dalam kesesatan yang nyata.",
+    "time": 301.280
+  },
+  {
+    "no": 25,
+    "arab": "إِنِّي آمَنْتُ بِرَبِّكُمْ فَاسْمَعُونِ",
+    "latin": "innî âmantu birabbikum fasma‘ûn",
+    "indo": "Sesungguhnya aku telah beriman kepada Tuhanmu. Maka, dengarkanlah (pengakuan iman)-ku.\"",
+    "time": 311.200
+  },
+  {
+    "no": 26,
+    "arab": "قِيلَ ادْخُلِ الْجَنَّةَ ۖ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ",
+    "latin": "qîladkhulil-jannah, qâla yâ laita qaumî ya‘lamûn",
+    "indo": "Dikatakan (kepadanya), \"Masuklah ke surga.\" Dia (laki-laki itu) berkata, \"Aduhai, seandainya kaumku mengetahui",
+    "time": 321.200
+  },
+  {
+    "no": 27,
+    "arab": "بِمَا غَفَرَ لِي رَبِّي وَجَعَلَنِي مِنَ الْمُكْرَمِينَ",
+    "latin": "bimâ ghafara lî rabbî wa ja‘alanî minal-mukramîn",
+    "indo": "(bagaimana) Tuhanku mengampuniku dan menjadikanku termasuk orang-orang yang dimuliakan.\"",
+    "time": 331.150
+  },
+  {
+    "no": 28,
+    "arab": "وَمَا أَنْزَلْنَا عَلَىٰ قَوْمِهِ مِنْ بَعْدِهِ مِنْ جُنْدٍ مِنَ السَّمَاءِ وَمَا كُنَّا مُنْزِلِينَ",
+    "latin": "wa mâ anzalnâ ‘alâ qaumihî mim ba‘dihî min jundim minas-samâ'i wa mâ kunnâ munzilîn",
+    "indo": "Kami tidak menurunkan bala tentara dari langit kepada kaumnya setelah (kematian)-nya dan Kami tidak perlu menurunkannya.",
+    "time": 339.180
+  },
+  {
+    "no": 29,
+    "arab": "إِنْ كَانَت_ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ",
+    "latin": "in kânat illâ shaiḫataw wâḫidatan fa idzâ hum khâmidûn",
+    "indo": "(Azab mereka) itu cukup dengan satu teriakan (keras). Maka, seketika itu mereka mati binasa.",
+    "time": 359.200
+  },
+  {
+    "no": 30,
+    "arab": "يَا حَسْرَةً عَلَى الْعِبَادِ ۚ مَا يَأْتِيهِمْ مِنْ رَسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+    "latin": "yâ ḫasratan ‘alal-‘ibâd, mâ ya'tîhim mir rasûlin illâ kânû bihî yastahzi'ûn",
+    "indo": "Alangkah besarnya penyesalan hamba-hamba (yang ingkar) itu. Tidak datang seorang rasul pun kepada mereka, kecuali mereka selalu memperolok-olokkannya.",
+    "time": 371.170
+  },
+  {
+    "no": 31,
+    "arab": "أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا قَبْلَهُمْ مِنَ الْقُرُونِ أَنَّهُمْ إِلَيْهِمْ لَا يَرْجِعُونَ",
+    "latin": "a lam yarau kam ahlaknâ qablahum minal-qurûni annahum ilaihim lâ yarji‘ûn",
+    "indo": "Tidakkah mereka mengetahui berapa banyak umat sebelum mereka yang telah Kami binasakan. Mereka (yang telah binasa itu) tidak akan kembali kepada mereka (di dunia).",
+    "time": 387.050
+  },
+  {
+    "no": 32,
+    "arab": "وَإِنْ كُلٌّ لَمَّا جَمِيعٌ لَدَيْنَا مُحْضَرُونَ",
+    "latin": "wa ing kullul lammâ jamî‘ul ladainâ muḫdharûn",
+    "indo": "Tidak ada satu pun dari mereka, kecuali semuanya akan dihadapkan kepada Kami.",
+    "time": 399.170
+  },
+  {
+    "no": 33,
+    "arab": "وَآيَةٌ لَهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+    "latin": "wa âyatul lahumul-ardhul-maitatu, aḫyainâhâ wa akhrajnâ minhâ ḫabban fa minhu ya'kulûn",
+    "indo": "Suatu tanda (kekuasaan Allah) bagi mereka adalah bumi yang mati (tandus lalu) Kami menghidupkannya dan mengeluarkan darinya biji-bijian. Maka, dari (biji-bijian) itu mereka makan.",
+    "time": 408.270
+  },
+  {
+    "no": 34,
+    "arab": "وَجَعَلْنَا فِيهَا جَنَّاتٍ مِنْ نَخِيلٍ وَأَعْنَابٍ وَفَجَّرْنَا فِيهَا مِنَ الْعُيُونِ",
+    "latin": "wa ja‘alnâ fîhâ jannâtim min nakhîliw wa a‘nâbiw wa fajjarnâ fîhâ minal-‘uyûn",
+    "indo": "Kami (juga) menjadikan padanya (bumi) kebun-kebun kurma dan anggur serta Kami memancarkan padanya beberapa mata air",
+    "time": 422.120
+  },
+  {
+    "no": 35,
+    "arab": "لِيَأْكُلُوا مِنْ ثَمَرِهِ وَمَا عَمِلَتْهُ أَيْدِيهِمْ ۖ أَفَلَا يَشْكُرُونَ",
+    "latin": "liya'kulû min tsamarihî wa mâ ‘amilathu aidîhim, a fa lâ yasykurûn",
+    "indo": "agar mereka dapat makan dari buahnya, dan dari hasil usaha tangan mereka. Mengapa mereka tidak bersyukur?",
+    "time": 437.100
+  },
+  {
+    "no": 36,
+    "arab": "سُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنْبِتُ الْأَرْضُ وَمِنْ أَنْفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+    "latin": "subḫânal-ladzî khalaqal-azwâja kullahâ mimmâ tunbitul-ardhu wa min anfusihim wa mimmâ lâ ya‘lamûn",
+    "indo": "Mahasuci (Allah) yang telah menciptakan semuanya berpasang-pasangan, baik dari apa yang ditumbuhkan oleh bumi dan dari diri mereka sendiri, maupun dari apa yang tidak mereka ketahui.",
+    "time": 447.250
+  },
+  {
+    "no": 37,
+    "arab": "وَآيَةٌ لَهُمُ اللَّيْلُ nَسْلَخُ مِنْهُ النَّهَارَ فَإِذَا هُمْ مُظْلِمُونَ",
+    "latin": "wa âyatul lahumul-lailu naslakhu minhun-nahâra fa idzâ hum muzhlimûn",
+    "indo": "Suatu tanda (kekuasaan Allah) bagi mereka adalah malam. Kami tanggalkan siang darinya. Maka, seketika itu mereka (berada dalam) kegelapan.",
+    "time": 464.070
+  },
+  {
+    "no": 38,
+    "arab": "وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَهَا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+    "latin": "wasy-syamsu tajrî limustaqarril lahâ, dzâlika taqdîrul-‘azîzil-‘alîm",
+    "indo": "(Suatu tanda juga) matahari yang berjalan di tempat peredarannya. Itulah ketetapan (Allah) Yang Mahaperkasa lagi Maha Mengetahui.",
+    "time": 476.060
+  },
+  {
+    "no": 39,
+    "arab": "وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّىٰ عَادَ كَالْعُرْجُونِ الْقَدِيمِ",
+    "latin": "wal-qamara qaddarnâhu manâzila ḫattâ ‘âda kal-‘urjûnil-qadîm",
+    "indo": "(Begitu juga) bulan, Kami tetapkan bagi(-nya) tempat-tempat peredaran sehingga (setelah ia sampai ke tempat peredaran yang terakhir,) kembalilah ia seperti bentuk tandan yang tua.",
+    "time": 487.020
+  },
+  {
+    "no": 40,
+    "arab": "لَا الشَّمْسُ يَنْبَغِي لَهَا أَنْ تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ ۚ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ",
+    "latin": "lasy-syamsu yambaghî lahâ an tudrikal-qamara wa lal-lailu sâbiqun-nahâr, wa kullun fî falakiy yasbaḫûn",
+    "indo": "Tidaklah mungkin bagi matahari mengejar bulan dan malam pun tidak dapat mendahului siang. Masing-masing beredar pada garis edarnya.",
+    "time": 496.200
+  },
+  {
+    "no": 41,
+    "arab": "وَآيَةٌ لَهُمْ أَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ",
+    "latin": "wa âyatul lahum annâ ḫamalnâ dzurriyyatahum fil-fulkil-masyḫûn",
+    "indo": "Suatu tanda (kebesaran Allah) bagi mereka adalah bahwa Kami mengangkut keturunan mereka dalam kapal yang penuh muatan.",
+    "time": 516.220
+  },
+  {
+    "no": 42,
+    "arab": "وَخَلَقْنَا لَهُمْ مِنْ مِثْلِهِ مَا يَرْكَبُونَ",
+    "latin": "wa khalaqnâ lahum mim mitslihî mâ yarkabûn",
+    "indo": "Kami (juga) menciptakan untuk mereka (angkutan) seperti itu (kapal) yang mereka kendarai.",
+    "time": 527.100
+  },
+  {
+    "no": 43,
+    "arab": "وَإِنْ نَشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنْقَذُونَ",
+    "latin": "wa in nasya' nughriq-hum fa lâ sharîkha lahum wa lâ hum yunqadzûn",
+    "indo": "Jika Kami menghendaki, Kami akan menenggelamkan mereka. Kemudian, tidak ada penolong bagi mereka dan tidak (pula) mereka diselamatkan,",
+    "time": 535.120
+  },
+  {
+    "no": 44,
+    "arab": "إِلَّا رَحْمَةً مِنَّا وَمَتَاعًا إِلَىٰ حِينٍ",
+    "latin": "illâ raḫmatam minnâ wa matâ‘an ilâ ḫîn",
+    "indo": "kecuali karena rahmat dari Kami dan kesenangan (hidup) sampai waktu tertentu.",
+    "time": 545.290
+  },
+  {
+    "no": 45,
+    "arab": "وَإِذَا قِيلَ لَهُمُ اتَّقُوا مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ",
+    "latin": "wa idzâ qîla lahumuttaqū mâ baina aidîkum wa mâ khalfakum la‘allakum turḫamûn",
+    "indo": "Jika dikatakan kepada mereka, \"Takutilah (siksa) yang ada di hadapanmu dan azab yang ada di belakangmu agar kamu dirahmati,\" (mereka berpaling).",
+    "time": 554.200
+  },
+  {
+    "no": 46,
+    "arab": "وَمَا تَأْتِيهِم_ مِنْ آيَةٍ مِنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ",
+    "latin": "wa mâ ta'tîhim min âyatim min âyâti rabbihim illâ kânû ‘anhâ mu‘ridhîn",
+    "indo": "Tidak satu pun tanda dari tanda-tanda (kebesaran) Tuhan datang kepada mereka, kecuali mereka berpaling darinya.",
+    "time": 566.140
+  },
+  {
+    "no": 47,
+    "arab": "وَإِذَا قِيلَ لَهُمْ أَنْفِقُوا مِمَّا رَزَقَكُمُ اللَّهُ قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا أَنُطْعِمُ مَنْ لَوْ يَشَاءُ اللَّهُ أَطْعَمَهُ إِنْ أَنْتُمْ إِلَّا فِي ضَلَالٍ مُبِينٍ",
+    "latin": "wa idzâ qîla lahum anfiqû mimmâ razaqakumullâhu qâlal-ladzîna kafarû lilladzîna âmanû a nuth‘imu mal lau yasyâ'ullâhu ath‘amahû in antum illâ fî dhalâlim mubîn",
+    "indo": "Jika dikatakan kepada mereka, \"Infakkanlah sebagian rezeki yang diberikan Allah kepadamu,\" orang-orang yang kufur berkata kepada orang-orang yang beriman, \"Apakah kami harus memberi makan orang yang jika Allah menghendaki, pasti memberinya makan? Kamu benar-benar hanya berada dalam kesesatan yang nyata.\"",
+    "time": 578.220
+  },
+  {
+    "no": 48,
+    "arab": "وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ",
+    "latin": "wa yaqûlûna matâ hâdzal-wa‘du ing kuntum shâdiqîn",
+    "indo": "Mereka berkata, \"Kapan (datangnya) ancaman itu jika kamu orang-orang benar?\"",
+    "time": 609.120
+  },
+  {
+    "no": 49,
+    "arab": "مَا يَنْظُرُونَ إِلَّا صَيْحَةً وَاحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ",
+    "latin": "mâ yanzhurûna illâ shaiḫataw wâḫidatan ta'khudzuhum wa hum yakhishshimûn",
+    "indo": "Mereka tidak menunggu (apa pun) kecuali satu teriakan (sangkakala) saja yang akan membinasakan mereka saat mereka (sibuk) bertengkar (tentang urusan dunia).",
+    "time": 619.100
+  },
+  {
+    "no": 50,
+    "arab": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَا إِلَىٰ أَهْلِهِمْ يَرْجِعُونَ",
+    "latin": "fa lâ yastathî‘ûna taushiyataw wa lâ ilâ ahlihim yarji‘ûn",
+    "indo": "Maka, mereka tidak mampu membuat wasiat dan tidak dapat kembali kepada keluarganya.",
+    "time": 631.250
+  },
+  {
+    "no": 51,
+    "arab": "وَنُفِخَ فِي الصُّورِ فَإِذَا هُمْ مِنَ الْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنْسِلُونَ",
+    "latin": "wa nufikha fish-shûri fa idzâ hum minal-ajdâtsi ilâ rabbihim yansilûn",
+    "indo": "(Sangkakala) pun ditiup (yang kedua kalinya) sehingga seketika itu juga mereka keluar dari kuburnya (berbondong-bondong) menuju kepada Tuhannya.",
+    "time": 644.070
+  },
+  {
+    "no": 52,
+    "arab": "قَالُوا يَا وَيْلَنَا مَنْ بَعَثَنَا مِنْ مَرْقَدِنَا ۜ ۗ هَٰذَا مَا وَعَدَ الرَّحْمَٰنُ وَصَدَقَ الْمُرْسَلُونَ",
+    "latin": "qâlû yâ wailanâ mam ba‘atsanâ mim marqadinâ, hâdzâ mâ wa‘adar-raḫmânu wa shadaqal-mursalûn",
+    "indo": "Mereka berkata, \"Celakalah kami! Siapakah yang membangkitkan kami dari tempat tidur kami (kubur)?\" (Lalu, dikatakan kepada mereka,) \"Inilah yang dijanjikan (Allah) Yang Maha Pengasih dan benarlah para rasul(-Nya).\"",
+    "time": 656.070
+  },
+  {
+    "no": 53,
+    "arab": "إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَدَيْنَا مُحْضَرُونَ",
+    "latin": "in kânat illâ shaiḫataw wâḫidatan fa idzâ hum jamî‘ul ladainâ muḫdharûn",
+    "indo": "(Kebangkitan) itu hanya dengan satu teriakan. Maka, seketika itu mereka semua dihadapkan kepada Kami.",
+    "time": 672.180
+  },
+  {
+    "no": 54,
+    "arab": "فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ",
+    "latin": "fal-yauma lâ tuzhlamu nafsun syai'aw wa lâ tujzauna illâ mâ kuntum ta‘malûn",
+    "indo": "Pada hari itu tidak ada satu jiwa pun yang dirugikan sedikit pun dan kamu tidak dibalas, kecuali (dengan) apa yang telah kamu kerjakan.",
+    "time": 686.170
+  },
+  {
+    "no": 55,
+    "arab": "إِنَّ أَصْحَابَ الْجَنَّةِ الْيَوْمَ فِي شُغُلٍ فَاكِهُونَ",
+    "latin": "inna ash-ḫâbal-jannatil-yauma fî syughulin fâkihûn",
+    "indo": "Sesungguhnya penghuni surga pada hari itu berada dalam kesibukan (sehingga tidak sempat memikirkan orang lain) lagi bersukaria.",
+    "time": 701.050
+  },
+  {
+    "no": 56,
+    "arab": "هُمْ وَأَزْوَاجُهُمْ فِي ظِلَالٍ عَلَى الْأَرَائِكِ مُتَّكِئُونَ",
+    "latin": "hum wa azwâjuhum fî zhilâlin ‘alal-arâ'iki muttaki'ûn",
+    "indo": "Mereka dan pasangan-pasangannya berada dalam tempat yang teduh sambil berbaring di atas ranjang-ranjang yang empuk.",
+    "time": 713.000
+  },
+  {
+    "no": 57,
+    "arab": "لَهُمْ فِيهَا فَاكِهَةٌ وَلَهُمْ مَا يَدَّعُونَ",
+    "latin": "lahum fīhâ fâkihatuw wa lahum mâ yadda‘ûn",
+    "indo": "Di dalamnya mereka (mendapat) buah-buahan dan apa saja yang mereka minta.",
+    "time": 723.250
+  },
+  {
+    "no": 58,
+    "arab": "سَلَامٌ قَوْلًا مِنْ رَبٍّ رَحِيمٍ",
+    "latin": "salâmun qaulam mir rabbir raḫîm",
+    "indo": "(Kepada mereka dikatakan,) \"Salam keselamatan,\" sebagai ucapan dari Tuhan Yang Maha Penyayang.",
+    "time": 734.020
+  },
+  {
+    "no": 59,
+    "arab": "وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ",
+    "latin": "wamtâzul-yauma ayyuhal-mujrimûn",
+    "indo": "(Dikatakan kepada orang-orang kafir,) \"Berpisahlah kamu (dari orang-orang mukmin) pada hari ini, wahai para pendosa!",
+    "time": 742.040
+  },
+  {
+    "no": 60,
+    "arab": "أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لَا تَعْبُدُوا الشَّيْطَانَ ۖ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
+    "latin": "a lam a‘had ilaikum yâ banî âdama al lâ ta‘budusy-syaiṭhân, innahû lakum ‘aduwwum mubîn",
+    "indo": "Bukankah Aku telah berpesan kepadamu, wahai anak cucu Adam, agar kamu tidak menyembah setan? Sesungguhnya setan itu musuh yang nyata bagimu.",
+    "time": 749.100
+  },
+  {
+    "no": 61,
+    "arab": "وَأَنِ اعْبُدُونِي ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+    "latin": "wa ani‘budûnî, hâdzâ shirâthum mustaqîm",
+    "indo": "(Aku juga berpesan,) 'Sembahlah Aku! Inilah jalan yang lurus.'",
+    "time": 768.210
+  },
+  {
+    "no": 62,
+    "arab": "...وَلَقَدْ أَضَلَّ مِنْكُمْ جِبِلًّا كَثِيرًا ۖ أَفَلَمْ تَكُونُوا تَعْقِلُونَ",
+    "latin": "wa laqad adhalla mingkum jibillang katsîrâ, a fa lam takûnû ta‘qilûn",
+    "indo": "Sungguh, ia (setan) benar-benar telah menyesatkan sangat banyak orang dari kamu. Maka, apakah kamu tidak mengerti?",
+    "time": 778.020
+  },
+  {
+    "no": 63,
+    "arab": "هَٰذِهِ جَهَنَّمُ الَّتِي كُنْتُمْ تُوعَدُونَ",
+    "latin": "hâdzihî jahannamullatî kuntum tû‘adûn",
+    "indo": "Inilah (neraka) Jahanam yang dahulu selalu diancamkan kepadamu.",
+    "time": 790.100
+  },
+  {
+    "no": 64,
+    "arab": "اصْلَوْهَا الْيَوْمَ بِمَا كُنْتُمْ تَكْفُرُونَ",
+    "latin": "ishlauhal-yauma bimâ kuntum takfurûn",
+    "indo": "\"Masuklah ke dalamnya pada hari ini karena kamu dahulu selalu ingkar.\"",
+    "time": 798.290
+  },
+  {
+    "no": 65,
+    "arab": "الْيَوْمَ نَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ",
+    "latin": "al-yauma nakhtimu ‘alâ afwâhihim wa tukallimunâ aidîhim wa tasyhadu arjuluhum bimâ kânû yaksibûn",
+    "indo": "Pada hari ini Kami membungkam mulut mereka. Tangan merekalah yang berbicara kepada Kami dan kaki merekalah yang akan bersaksi terhadap apa yang dahulu mereka kerjakan.",
+    "time": 807.110
+  },
+  {
+    "no": 66,
+    "arab": "وَلَوْ نَشَاءُ لَطَمَسْنَا عَلَىٰ أَعْيُنِهِمْ فَاسْتَبَقُوا الصِّرَاطَ فَأَنَّىٰ يُبْصِرُونَ",
+    "latin": "wa lau nasyâ'u lathamasnâ ‘alâ a‘yunihim fastabaqush-shirâtha fa annâ yubshirûn",
+    "indo": "Seandainya Kami menghendaki, pastilah Kami hapuskan penglihatan mata mereka, lalu mereka berlomba-lomba (mencari) jalan. Maka, bagaimana mungkin mereka dapat melihat?",
+    "time": 824.100
+  },
+  {
+    "no": 67,
+    "arab": "وَلَوْ نَشَاءُ لَمَسَخْنَاهُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا اسْتَطَاعُوا مُضِيًّا وَلَا يَرْجِعُونَ",
+    "latin": "wa lau nasyâ'u lamasakhnâhum ‘alâ makânatihim famastathâ‘û mudhiyyaw wa lâ yarji‘ûn",
+    "indo": "Seandainya Kami menghendaki, pastilah Kami ubah bentuk mereka di tempat mereka berada, sehingga mereka tidak sanggup berjalan lagi dan juga tidak sanggup kembali.",
+    "time": 838.250
+  },
+  {
+    "no": 68,
+    "arab": "وَمَنْ نُعَمِّرْهُ نُنَكِّسْهُ فِي الْخَلْقِ ۖ أَفَلَا يَعْقِلُونَ",
+    "latin": "wa man nu‘ammirhu nunakkis-hu fil-khalq, a fa lâ ya‘qilûn",
+    "indo": "Siapa yang Kami panjangkan umurnya, niscaya Kami kembalikan dia pada awal penciptaan(-nya). Maka, apakah mereka tidak mengerti?",
+    "time": 852.260
+  },
+  {
+    "no": 69,
+    "arab": "وَمَا عَلَّمْنَاهُ الشِّعْرَ وَمَا يَنْبَغِي لَهُ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْآنٌ مُبِينٌ",
+    "latin": "wa mâ ‘allamnâhusy-syi‘ra wa mâ yambaghî lah, in huwa illâ dzikruw wa qur'ânum mubîn",
+    "indo": "Kami tidak mengajarkan syair kepadanya (Nabi Muhammad) dan bersyair itu tidaklah pantas baginya. (Wahyu yang diterimanya) itu tidak lain hanyalah pelajaran dan Al-Qur'an yang jelas,",
+    "time": 863.050
+  },
+  {
+    "no": 70,
+    "arab": "لِيُنْذِرَ مَنْ كَانَ حَيًّا وَيَحِقَّ الْقَوْلُ عَلَى الْكَافِرِينَ",
+    "latin": "liyundzira mang kâna ḫayyaw wa yaḫiqqal-qaulu ‘alal-kâfirîn",
+    "indo": "agar dia (Nabi Muhammad) memberi peringatan kepada orang yang hidup (hatinya) dan agar ketetapan (azab) terhadap orang-orang kafir itu terbukti.",
+    "time": 878.000
+  },
+  {
+    "no": 71,
+    "arab": "أَوَلَمْ يَرَوْا أَنَّا خَلَقْنَا لَهُمْ مِمَّا عَمِلَتْ أَيْدِينَا أَنْعَامًا فَهُمْ لَهَا مَالِكُونَ",
+    "latin": "a wa lam yarau annâ khalaqnâ lahum mimmâ ‘amilat aidînâ an‘âman fa hum lahâ mâlikûn",
+    "indo": "Tidakkah mereka memperhatikan bahwa sesungguhnya Kami telah menciptakan binatang ternak untuk mereka dari apa yang telah Kami ciptakan dengan kekuasaan Kami, lalu mereka memilikinya?",
+    "time": 889.100
+  },
+  {
+    "no": 72,
+    "arab": "وَذَلَّلْنَاهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ",
+    "latin": "wa dzallalnâhâ lahum fa minhâ rakûbuhum wa minhâ ya'kulûn",
+    "indo": "Kami menundukkannya (binatang ternak itu) untuk mereka, lalu sebagiannya menjadi tunggangan mereka dan sebagian (yang lain) mereka makan.",
+    "time": 906.000
+  },
+  {
+    "no": 73,
+    "arab": "وَلَهُمْ فِيهَا مَنَافِعُ وَمَشَارِبُ ۖ أَفَلَا يَشْكُرُونَ",
+    "latin": "wa lahum fīhâ manâfi‘u wa masyârib, a fa lâ yasykurûn",
+    "indo": "Pada padanya (binatang ternak itu) terdapat berbagai manfaat dan minuman bagi mereka. Mengapa mereka tidak bersyukur?",
+    "time": 915.250
+  },
+  {
+    "no": 74,
+    "arab": "وَاتَّخَذُوا مِنْ دُONِ اللَّهِ آلِهَةً لَعَلَّهُمْ يُنْصَرُونَ",
+    "latin": "wattakhadzû min dûnillâhi âlihatan la‘allahum yunsharûn",
+    "indo": "Mereka mengambil tuhan-tuhan selain Allah dengan harapan mereka akan ditolong.",
+    "time": 924.140
+  },
+  {
+    "no": 75,
+    "arab": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُنْدٌ مُحْضَرُونَ",
+    "latin": "lâ yastathî‘ûna nashrahum wa hum lahum jundum muḫdharûn",
+    "indo": "(Tuhan-tuhan itu) tidak mampu menolong mereka, padahal tuhan-tuhan itu adalah tentara yang dihadirkan untuk menjaga mereka.",
+    "time": 934.250
+  },
+  {
+    "no": 76,
+    "arab": "فَلَا يَحْزُنْكَ قَوْلُهُمْ ۘ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+    "latin": "fa lâ yaḫzungka qauluhum, innâ na‘lamu mâ yusirrûna wa mâ yu‘linûn",
+    "indo": "Maka, jangan sampai ucapan mereka membuat engkau (Nabi Muhammad) bersedih hati. Sesungguhnya Kami mengetahui apa yang mereka rahasiakan dan apa yang mereka nyatakan.",
+    "time": 945.050
+  },
+  {
+    "no": 77,
+    "arab": "أَوَلَمْ يَرَ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ نُطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُبِينٌ",
+    "latin": "a wa lam yaral-insânu annâ khalaqnâhu min nuthfatin fa idzâ huwa khashîmum mubîn",
+    "indo": "Tidakkah manusia memperhatikan bahwa sesungguhnya Kami menciptakannya dari setetes air mani? Maka, tiba-tiba ia menjadi musuh yang nyata.",
+    "time": 957.150
+  },
+  {
+    "no": 78,
+    "arab": "وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ ۖ قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ",
+    "latin": "wa dharaba lanâ matsalaw wa nasiya khalqah, qâla may yuḫyil-‘izhâma wa hiya ramîm",
+    "indo": "Dia membuat perumpamaan bagi Kami dan melupakan asal penciptaannya. Dia berkata, \"Siapakah yang dapat menghidupkan tulang-belulang yang telah hancur luluh?\"",
+    "time": 972.140
+  },
+  {
+    "no": 79,
+    "arab": "قُلْ يُحْيِيهَا الَّذِي أَنْشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ",
+    "latin": "qul yuḫyîhal-ladzî ansya'ahâ awwala marrah, wa huwa bikulli khalqin ‘alîm",
+    "indo": "Katakanlah (Nabi Muhammad), \"Yang akan menghidupkannya adalah Zat yang menciptakannya pertama kali. Dia Maha Mengetahui setiap makhluk.",
+    "time": 984.200
+  },
+  {
+    "no": 80,
+    "arab": "الَّذِي جَعَلَ لَكُمْ مِنَ الشَّجَرِ الْأَخْضَرِ نَارًا فَإِذَا أَنْتُمْ مِنْهُ تُوقِدُونَ",
+    "latin": "alladzî ja‘ala lakum minasy-syajaril-akhdhari nâran fa idzâ antum minhu tûqidûn",
+    "indo": "(Dialah) yang menjadikan api untukmu dari kayu yang hijau. Maka, seketika itu kamu menyalakan (api) darinya.\"",
+    "time": 998.250
+  },
+  {
+    "no": 81,
+    "arab": "أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ عَلَىٰ أَنْ يَخْلُقَ mِثْلَهُمْ ۚ بَلَىٰ وَهُوَ الْخَلَّاقُ الْعَلِيمُ",
+    "latin": "a wa laisal-ladzî khalaqas-samâwâti wal-ardha biqâdirin ‘alâ ay yakhluqa mitslahum, balâ wa huwal-khallâqul-‘alîm",
+    "indo": "Bukankah Zat yang menciptakan langit dan bumi mampu menciptakan manusia yang serupa mereka itu? Benar (Dia mampu). Dialah Yang Maha Pencipta lagi Maha Mengetahui.",
+    "time": 1013.150
+  },
+  {
+    "no": 82,
+    "arab": "إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ",
+    "latin": "innamâ amruhû idzâ arâda syai'an ay yaqûla lahû kun fa yakûn",
+    "indo": "Sesungguhnya urusan-Nya apabila Dia menghendaki sesuatu Dia hanya berkata kepadanya, \"Jadilah!\" Maka, jadilah sesuatu itu.",
+    "time": 1031.200
+  },
+  {
+    "no": 83,
+    "arab": "فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ تُرْجَعُونَ",
+    "latin": "fa subḫânal-ladzî biyadihî malakûtu kulli syai'iw wa ilaihi turja‘ûn",
+    "indo": "Maka, Mahasuci (Allah) yang di tangan-Nya kekuasaan atas segala sesuatu dan kepada-Nya kamu dikembalikan.",
+    "time": 1048.220
+  }
+]
