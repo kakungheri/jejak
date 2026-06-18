@@ -407,27 +407,55 @@ Tuliskan Doa
 
 
 <!-- RUANG DOA -->
-<section class="page" id="doa">
+<section class="page" id="pesan">
 
     <div class="page-content">
 
         <p class="section-label">
-            Ruang Doa
+            Ruang Kenangan
         </p>
 
         <h2>
-            Tuliskan Doa,
-            Kenangan,
+            Tuliskan Doa, Kenangan,
             dan Harapanmu
         </h2>
 
-        <p>
-            Form Supabase akan ditempatkan di sini.
+        <p class="section-text">
+
+            Silakan tinggalkan doa,
+            kenangan, atau pesan
+            untuk keluarga.
+
         </p>
+
+        <form id="messageForm">
+
+            <input
+            type="text"
+            id="name"
+            placeholder="Nama">
+
+            <textarea
+            id="message"
+            placeholder="Tulis doa atau kenangan..."
+            rows="6"></textarea>
+
+            <button type="submit">
+
+                Kirim
+
+            </button>
+
+        </form>
+
+        <div id="messageList">
+
+        </div>
 
     </div>
 
 </section>
+    
 </div>
 
 <script src="js/script.js"></script>
