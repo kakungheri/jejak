@@ -174,3 +174,68 @@ document.addEventListener(
     }
 
 );
+
+/* =========================
+   RENUNGAN SLIDER
+========================= */
+
+const cards =
+    document.querySelectorAll(
+        '.renungan-card'
+    );
+
+let currentPuisi = 0;
+
+const indicator =
+    document.getElementById(
+        'renunganIndicator'
+    );
+
+function showPuisi(index){
+
+    cards.forEach(card => {
+
+        card.classList.remove('active');
+
+    });
+
+    cards[index]
+        .classList
+        .add('active');
+
+    indicator.textContent =
+        `${index + 1} / ${cards.length}`;
+}
+
+document
+    .getElementById('nextPuisi')
+    ?.addEventListener('click', () => {
+
+        currentPuisi++;
+
+        if(currentPuisi >= cards.length){
+
+            currentPuisi = 0;
+
+        }
+
+        showPuisi(currentPuisi);
+
+    });
+
+document
+    .getElementById('prevPuisi')
+    ?.addEventListener('click', () => {
+
+        currentPuisi--;
+
+        if(currentPuisi < 0){
+
+            currentPuisi =
+                cards.length - 1;
+
+        }
+
+        showPuisi(currentPuisi);
+
+    });
