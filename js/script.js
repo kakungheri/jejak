@@ -331,3 +331,60 @@ modal.classList.remove(
 }
 
 );
+
+const form =
+document.getElementById(
+'messageForm'
+);
+
+const messageList =
+document.getElementById(
+'messageList'
+);
+
+form.addEventListener(
+
+'submit',
+
+e=>{
+
+e.preventDefault();
+
+const name=
+
+document
+.getElementById(
+'name'
+).value;
+
+const message=
+
+document
+.getElementById(
+'message'
+).value;
+
+
+messageList.innerHTML += `
+
+<div class="message-card">
+
+<div class="message-name">
+
+${name}
+
+</div>
+
+<div>
+
+${message}
+
+</div>
+
+</div>
+
+`;
+
+form.reset();
+
+});
