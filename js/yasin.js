@@ -31,6 +31,7 @@ fetch(
     ayahs=data;
 
     renderAyahs();
+    enableAyahClick();
 
 });
 
@@ -44,7 +45,8 @@ container.innerHTML+=`
 
 <div
 class="ayah"
-id="ayah-${ayah.no}">
+id="ayah-${ayah.no}"
+data-time="${ayah.time}">
 
 <div class="ayah-number">
 
@@ -73,6 +75,36 @@ ${ayah.indo}
 </div>
 
 `;
+
+});
+
+}
+
+function enableAyahClick(){
+
+document
+.querySelectorAll('.ayah')
+
+.forEach(ayah=>{
+
+ayah.addEventListener(
+
+'click',
+
+()=>{
+
+const startTime=
+
+parseFloat(
+ayah.dataset.time
+);
+
+audio.currentTime=
+startTime;
+
+audio.play();
+
+});
 
 });
 
