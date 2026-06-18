@@ -1,3 +1,7 @@
+const bgMusic =
+document.getElementById(
+'bgMusic'
+);
 const pages = document.querySelectorAll('.page');
 
 let autoMode = false;
@@ -67,6 +71,13 @@ if (enterBtn) {
     enterBtn.addEventListener('click', () => {
 
         showPage('landing');
+
+       /* browser perlu
+interaksi user */
+
+bgMusic.volume=.3;
+
+bgMusic.play();
 
     });
 
