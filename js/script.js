@@ -140,6 +140,29 @@ document
 
     });
 
+/* =========================
+   Back BUTTONS
+========================= */
+
+document
+.querySelectorAll('.back-btn')
+.forEach(button=>{
+
+button.addEventListener(
+
+'click',
+
+()=>{
+
+autoMode=false;
+
+showPage(
+button.dataset.prev
+);
+
+});
+
+});
 
 /* =========================
    AUTO FLOW
