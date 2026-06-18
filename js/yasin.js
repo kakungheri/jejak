@@ -8,11 +8,6 @@ document.getElementById(
 'yasinAudio'
 );
 
-const bgMusic =
-document.getElementById(
-'bgMusic'
-);
-
 const playBtn =
 document.getElementById(
 'playYasin'
