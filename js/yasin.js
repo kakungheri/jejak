@@ -25,6 +25,11 @@ document.getElementById(
 
 let ayahs=[];
 
+let currentActiveAyah=null;
+
+
+/* LOAD JSON */
+
 fetch(
 'data/yasin.json'
 )
@@ -36,9 +41,13 @@ fetch(
     ayahs=data;
 
     renderAyahs();
+
     enableAyahClick();
 
 });
+
+
+/* RENDER AYAT */
 
 function renderAyahs(){
 
@@ -46,7 +55,7 @@ container.innerHTML='';
 
 ayahs.forEach(ayah=>{
 
-container.innerHTML+=`
+container.innerHTML += `
 
 <div
 class="ayah"
@@ -85,6 +94,9 @@ ${ayah.indo}
 
 }
 
+
+/* KLIK AYAT */
+
 function enableAyahClick(){
 
 document
@@ -107,13 +119,18 @@ ayah.dataset.time
 audio.currentTime=
 startTime;
 
-audio.();
+fadeOutMusic();
+
+audio.play();
 
 });
 
 });
 
 }
+
+
+/* PLAY */
 
 playBtn.onclick=()=>{
 
@@ -123,6 +140,9 @@ audio.play();
 
 };
 
+
+/* PAUSE */
+
 pauseBtn.onclick=()=>{
 
 audio.pause();
@@ -131,28 +151,38 @@ fadeInMusic();
 
 };
 
+
+/* YASIN SELESAI */
+
 audio.addEventListener(
-
-'timeupdate',
-
-()=>{
-
-const current=
-audio.currentTime;
-
-updateProgress();
-
-highlightAyah(
-current
-);
 
 'ended',
 
 ()=>{
 
 fadeInMusic();
-    
+
 });
+
+
+
+/* UPDATE */
+
+audio.addEventListener(
+
+'timeupdate',
+
+()=>{
+
+updateProgress();
+
+highlightAyah(
+audio.currentTime
+);
+
+});
+
+
 
 function updateProgress(){
 
@@ -175,7 +205,9 @@ percent+'%';
 
 }
 
-let currentActiveAyah = null;
+
+
+/* HIGHLIGHT */
 
 function highlightAyah(time){
 
@@ -216,9 +248,6 @@ break;
 }
 
 
-/* kalau ayat sama,
-jangan lakukan apa-apa */
-
 if(
 active===currentActiveAyah
 ) return;
@@ -255,21 +284,12 @@ el.classList.add(
 'active-ayah'
 );
 
-
-/* scroll HANYA saat
-pindah ayat */
-
-el.scrollIntoView({
-
-behavior:'smooth',
-
-block:'center'
-
-});
-
 }
 
 }
+
+
+/* MUSIC FADE */
 
 function fadeOutMusic(){
 
