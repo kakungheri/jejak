@@ -943,6 +943,31 @@ flex-wrap:wrap;
 
 }
 
+.nav-buttons button{
+
+min-width:160px;
+
+padding:14px 28px;
+
+border-radius:999px;
+
+font-size:1rem;
+
+font-weight:500;
+
+cursor:pointer;
+
+transition:.3s;
+
+display:flex;
+
+align-items:center;
+
+justify-content:center;
+
+}
+
+
 .back-btn{
 
 background:white;
@@ -954,12 +979,23 @@ var(--primary);
 
 }
 
+
 .next-btn{
 
 background:
 var(--primary);
 
 color:white;
+
+border:none;
+
+}
+
+
+.nav-buttons button:hover{
+
+transform:
+translateY(-3px);
 
 }
 
