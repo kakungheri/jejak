@@ -160,6 +160,8 @@ percent+'%';
 
 }
 
+let currentActiveAyah = null;
+
 function highlightAyah(time){
 
 let active=null;
@@ -185,7 +187,6 @@ if(
 time>=current.time &&
 
 (!next ||
-
 time<next.time)
 
 ){
@@ -198,6 +199,19 @@ break;
 }
 
 }
+
+
+/* kalau ayat sama,
+jangan lakukan apa-apa */
+
+if(
+active===currentActiveAyah
+) return;
+
+
+currentActiveAyah=
+active;
+
 
 document
 .querySelectorAll(
@@ -212,6 +226,7 @@ a=>a.classList.remove(
 
 );
 
+
 if(active){
 
 const el=
@@ -225,13 +240,15 @@ el.classList.add(
 'active-ayah'
 );
 
+
+/* scroll HANYA saat
+pindah ayat */
+
 el.scrollIntoView({
 
-behavior:
-'smooth',
+behavior:'smooth',
 
-block:
-'center'
+block:'center'
 
 });
 
